@@ -1,0 +1,484 @@
+{
+    "success": true,
+    "properties": [{
+        "title": "Castillejos 339",
+        "surface": 60,
+        "rooms": 2,
+        "price": 850,
+        "description": "Castillejos 339. Piso totalmente amueblado de 60mÂ² exterior y luminoso junto a Hospital de Sant Pau. Dispone de dos habitaciones, una doble con balcÃ³n, un baÃ±o completo, un aseo, cocina equipada y abierta a agradable salÃ³n comedor con salida a balcÃ³n. Tiene suelos de parquet, aire acondicionado con bomba de calor y carpinterÃ­a exterior de aluminio. Edificio en buen estado con ascensor y con ubicaciÃ³n envidiable en el corazÃ³n del barrio de la Sagrada Familia.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/080/4366848-120080476_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/080/4366848-120080476_no.jpg"
+    }, {
+        "title": "Piso reformado junto al Liceo",
+        "surface": 105,
+        "rooms": 4,
+        "price": 1,
+        "description": "Piso reformado junto al Liceo. Piso totalmente reformado. Disponible a partir de 1 de agosto! Amueblado. Exterior, esquinero 5 balcones a dos calles. Vigas y bÃ³vedas de ladrillo originales restauradas. Se han conservado las puertas antiguas de casi 2,5 metros de alto. Los 4 dormitorios disponen de camas (1,20, 1,35, 1,35 y 1,50) armarios y escritorios (con sus flexos) en perfecto estado asÃ­ como toma de antena tv. Menaje de cocina completo, lavadora, lavaplatos, secadora, horno, vitro, microondas y frigorÃ­fico. CalefacciÃ³n con...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/101/4367356-120101468_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/101/4367356-120101468_no.jpg"
+    }, {
+        "title": "Alquiler piso amueblado Sants / monjuÃ¯c",
+        "surface": 86,
+        "rooms": 2,
+        "price": 750,
+        "description": "Alquiler piso amueblado Sants / monjuÃ¯c. Planta baja en Barcelona zona Sants, 85 m. De superficie, totalmente reformado a estrenar , consta de amplio salon con cocina abierta. Dos habitaciones una doble y una individual , baÃ±o completo , lavadero- cuarto trastero. Propiedad totalmente reformada para entrar a vivir, suelo de gres, carpinterÃ­a exterior de aluminio. Aire caliente y frio por sistema de climatizador de bajo consumo. Se encuentra en una zona muy bien comunicada de buses y metro, Parada Mercat Nou - linea Roja y parada Plaza de...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/070/4366491-120070170_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/070/4366491-120070170_no.jpg"
+    }, {
+        "title": "Atico duplex con terraza de 150m y piscina",
+        "surface": 160,
+        "rooms": 4,
+        "price": 4,
+        "description": "Atico duplex con terraza de 150m y piscina. Atico duplex con terraza de 150m y piscina. En planta baja de 160 m dispone de 4 hab, 3 baÃ±os amplio salon comedor y cocina office. En esta planta tiene otra terraza de 30m. Plaza de parking incluida",
+        "thumb": "http://images.enalquiler.com/viviendas/120/062/4366009-120062328_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/062/4366009-120062328_no.jpg"
+    }, {
+        "title": "Piso reformado y amueblado",
+        "surface": 75,
+        "rooms": 3,
+        "price": 750,
+        "description": "Piso reformado y amueblado. Magnifico piso en horta residencial de 3 habitaciones (1 doble), salÃ³n- comedor luminoso con salida a amplio balcÃ³n, cocina equipada y baÃ±o completo con baÃ±era. El piso queda amueblado, con calefacciÃ³n electrica y aire acondicionado. 1Âª real sin ascensor.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367495-120103403_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367495-120103403_no.jpg"
+    }, {
+        "title": "Ã¡tico con terraza en vila de gracia",
+        "surface": 40,
+        "rooms": 1,
+        "price": 800,
+        "description": "Ã¡tico con terraza en vila de gracia. Ãtico en Vila de Gracia con dos terrazas, una grande comunitaria y otra de unos 15 mÂ² privada. Tiene un dormitorio doble integrado en un solo ambiente y un pequeÃ±o despacho. Un cuarto de baÃ±o con plato de ducha. EstÃ¡ amueblado y con la cocina equipada con nevera, lavadora, microondas y horno. Dispone de aire acondicionado y calefacciÃ³n. Finca con ascensor y gastos de comunidad e ibi incluidos en el precio. Zona muy bien comunicada, en pleno corazÃ³n de Gracia, muy cerca del metro Fontana y de las...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/102/4367406-120102388_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/102/4367406-120102388_no.jpg"
+    }, {
+        "title": "Alquiler piso ascensor Eixample",
+        "surface": 115,
+        "rooms": 2,
+        "price": 1,
+        "description": "Alquiler piso ascensor Eixample. Excelente piso situado en calle ProvenÃ§a, cerca de Pg. De GrÃ cia. Suelos de baldosa decorativa y hermosos techos con escayolados artÃ­sticos. La vivienda tiene 100m2 de superficie Ãºtil, con un esplÃ©ndido salÃ³n comedor con tres ambientes, 2 habitaciones dobles (una de ellas en? Suite? ), 2 baÃ±os completos, cocina equipada. Se alquila completamente amueblado y equipado en un elegante estilo clÃ¡sico. Â¡un piso lleno de encanto en el centro de Barcelona! .",
+        "thumb": "http://images.enalquiler.com/viviendas/120/071/4366562-120071719_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/071/4366562-120071719_no.jpg"
+    }, {
+        "title": "Finca seminueva con parking incluido",
+        "surface": 120,
+        "rooms": 4,
+        "price": 1,
+        "description": "Finca seminueva con parking incluido. PÂº santa coloma. Piso de obra seminueva. 4 habitaciones (2Dobles) todas exteriores. Cocina office. 2 baÃ±os, uno suitte. Totalmente exterior, BalcÃ³n con acceso desde comedor. Plaza parking doble incluida en precio. Amueblado y con electrodomÃ©sticos.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367472-120103174_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367472-120103174_no.jpg"
+    }, {
+        "title": "FantÃ¡stico dÃºplex jto. Platja la mar bella",
+        "surface": 75,
+        "rooms": 1,
+        "price": 1,
+        "description": "FantÃ¡stico dÃºplex jto. Platja la mar bella. FantÃ¡stico dÃºplex sin amueblar, jto. Platja de la Mar Bella, con terraza de 25m2, 75m2, salÃ³n comedor , cocina equipada, 1 habitaciÃ³n doble, 1 cuarto de baÃ±o, calefacciÃ³n, pl. De pÃ¡rking incluida. MagnÃ­fica ubicaciÃ³n rodeado de zonas ajardinadas y junto Platja la Mar Bella.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367496-120103419_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367496-120103419_no.jpg"
+    }, {
+        "title": "Alquiler piso ascensor Eixample",
+        "surface": 65,
+        "rooms": 2,
+        "price": 1,
+        "description": "Alquiler piso ascensor Eixample. [titulo]piso con encanto a pocos minutos de la Plaza Unviersitat[Titulo]Piso con encanto, totalmente reformado, de 65m2 junto a la Ronda de Sant Antoni. Cerca del Mercado de Sant Antoni y a pocos minutos de la PlaÃ§a Universitat. SalÃ³n-Comedor, cocina independiente totalmente equipada (con lavadora, nevera, lavavajillas, microondas y secadora), 2 dormitorios (1 mediana, 1 individual), 1 baÃ±o completo (con ducha) y balcÃ³n. Mantiene detalles originales como los suelos hidrÃ¡ulicos que combinan con el...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/087/4367113-120087096_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/087/4367113-120087096_no.jpg"
+    }, {
+        "title": "Inmueble 4 dormitorios en les corts",
+        "surface": 100,
+        "rooms": 4,
+        "price": 1,
+        "description": "Inmueble 4 dormitorios en les corts. Inmueble de 100 mÂ² con balcÃ³n ubicado en Les Corts, con cuatro dormitorios, uno doble y tres individuales y dos cuartos de baÃ±o, ambos con baÃ±era. Tiene armarios empotrados y estÃ¡ amueblado, con la cocina equipada con nevera, lavadora, microondas y horno. Finca con ascensor y gastos de comunidad e ibi incluidos en el precio. Servicio de porterÃ­a. Zona muy bien comunicada, entre los metros PlaÃ§a del Centre y Sants EstaciÃ³n y las lineas de bus 59, 66 y 78, entre otras. ContÃ¡ctenos para mÃ¡s informaciÃ³n....",
+        "thumb": "http://images.enalquiler.com/viviendas/120/104/4367585-120104495_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/104/4367585-120104495_no.jpg"
+    }, {
+        "title": "Alquiler piso aire acondicionado Sant martÃ­",
+        "surface": 160,
+        "rooms": 4,
+        "price": 1,
+        "description": "Alquiler piso aire acondicionado Sant martÃ­. Disponible el 1 de julio- Amplio y luminoso piso de 160m2 en finca rehabilitada con ascensor junto a Gran Via de les Corts Catalanes y a escasos minutos de la Plaza de GlÃ²ries. Amplio y luminoso salÃ³n-comedor con acceso a amplia terraza de 45m2. 4 dormitorios (3 dobles, 1 individual). 1 baÃ±o completo (con ducha). Cocina cerrada (equipada con electrodomÃ©sticos). Posibilidad con o sin muebles. Aire frio calor por Split y calefacciÃ³n por radiadores. Armarios en todas las estancias. Suelos de parquet....",
+        "thumb": "http://images.enalquiler.com/viviendas/120/086/4367110-120086982_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/086/4367110-120086982_no.jpg"
+    }, {
+        "title": "FantÃ¡stico piso amueblado jto. Port vell",
+        "surface": 52,
+        "rooms": 1,
+        "price": 1,
+        "description": "FantÃ¡stico piso amueblado jto. Port vell. FantÃ¡stico piso frente al Port Vell, amueblado y equipado, 52m2, salÃ³n comedor, cocina independiente equipada, 1 habitaciÃ³n doble, 1 cuarto de baÃ±o, parquet, a. A, calefacciÃ³n , ascensor. Precio con todos los suministros incluidos ( agua, gas, electricidad ). Pl. De pÃ¡rking opcional ( 150â‚¬ mes ). MagnÃ­fica ubicaciÃ³n en la Barceloneta jto. Port Vell.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/102/4367391-120102188_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/102/4367391-120102188_no.jpg"
+    }, {
+        "title": "Vivienda amueblada con 4 habitaciones",
+        "surface": 120,
+        "rooms": 4,
+        "price": 1,
+        "description": "Vivienda amueblada con 4 habitaciones. Vivienda de 120 mÂ². Dispone de amplio salÃ³n-comedor con salida a gran terraza de 20 mÂ², cocina independiente equipada con nevera, lavadora, horno y cocina de gas; 2 habitaciones dobles, 2 individuales y 1 baÃ±o completo. Suelos de gres, ventanas de madera y puertas de madera. Vivienda amueblada (aunque pueden cambiarse muebles al gusto del inquilino), ubicada en zona muy bien comunicada con metro y bus. Comunidad e ibi incluidos en el precio. Disponible a partir de Junio de 2016. ContÃ¡ctenos para...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367477-120103134_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367477-120103134_no.jpg"
+    }, {
+        "title": "Inmueble totalmente amueblado y equipado",
+        "surface": 55,
+        "rooms": 2,
+        "price": 900,
+        "description": "Inmueble totalmente amueblado y equipado. Vivienda moderna de 55mÂ² en eixample, zona de la Sagrada Familia, muy luminoso. Consta de 2 dormitorios dobles, 1 cuarto de baÃ±o, amplio salÃ³n comedor y cocina totalmente equipada con nevera, lavadora, horno, lavavajillas y microondas. Vivienda totalmente amueblada. Dispone de suelos de parquet, aire acondicionado y puerta blindada. Finca con ascensor. Gastos de comunidad e ibi incluidos en el precio. Zona muy cÃ©ntrica, bien comunicada con lÃ­neas de autobÃºs y metro de Barcelona. ContÃ¡ctenos para...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367539-120103874_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367539-120103874_no.jpg"
+    }, {
+        "title": "Atico duplex con terraza de 150m y piscina",
+        "surface": 160,
+        "rooms": 4,
+        "price": 4,
+        "description": "Atico duplex con terraza de 150m y piscina. Atico duplex con terraza de 150m y piscina. En planta baja de 160 m dispone de 4 hab, 3 baÃ±os amplio salon comedor y cocina office. En esta planta tiene otra terraza de 30m. Plaza de parking incluida",
+        "thumb": "http://images.enalquiler.com/viviendas/120/062/4366009-120062328_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/062/4366009-120062328_no.jpg"
+    }, {
+        "title": "Vivienda amueblada con 4 habitaciones",
+        "surface": 120,
+        "rooms": 4,
+        "price": 1,
+        "description": "Vivienda amueblada con 4 habitaciones. Vivienda de 120 mÂ². Dispone de amplio salÃ³n-comedor con salida a gran terraza de 20 mÂ², cocina independiente equipada con nevera, lavadora, horno y cocina de gas; 2 habitaciones dobles, 2 individuales y 1 baÃ±o completo. Suelos de gres, ventanas de madera y puertas de madera. Vivienda amueblada (aunque pueden cambiarse muebles al gusto del inquilino), ubicada en zona muy bien comunicada con metro y bus. Comunidad e ibi incluidos en el precio. Disponible a partir de Junio de 2016. ContÃ¡ctenos para...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367477-120103134_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367477-120103134_no.jpg"
+    }, {
+        "title": "Inmueble 4 dormitorios en les corts",
+        "surface": 100,
+        "rooms": 4,
+        "price": 1,
+        "description": "Inmueble 4 dormitorios en les corts. Inmueble de 100 mÂ² con balcÃ³n ubicado en Les Corts, con cuatro dormitorios, uno doble y tres individuales y dos cuartos de baÃ±o, ambos con baÃ±era. Tiene armarios empotrados y estÃ¡ amueblado, con la cocina equipada con nevera, lavadora, microondas y horno. Finca con ascensor y gastos de comunidad e ibi incluidos en el precio. Servicio de porterÃ­a. Zona muy bien comunicada, entre los metros PlaÃ§a del Centre y Sants EstaciÃ³n y las lineas de bus 59, 66 y 78, entre otras. ContÃ¡ctenos para mÃ¡s informaciÃ³n....",
+        "thumb": "http://images.enalquiler.com/viviendas/120/104/4367585-120104495_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/104/4367585-120104495_no.jpg"
+    }, {
+        "title": "Piso reformado y amueblado",
+        "surface": 75,
+        "rooms": 3,
+        "price": 750,
+        "description": "Piso reformado y amueblado. Magnifico piso en horta residencial de 3 habitaciones (1 doble), salÃ³n- comedor luminoso con salida a amplio balcÃ³n, cocina equipada y baÃ±o completo con baÃ±era. El piso queda amueblado, con calefacciÃ³n electrica y aire acondicionado. 1Âª real sin ascensor.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367495-120103403_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367495-120103403_no.jpg"
+    }, {
+        "title": "Alquiler piso ascensor Eixample",
+        "surface": 90,
+        "rooms": 3,
+        "price": 1,
+        "description": "Alquiler piso ascensor Eixample. Disponible 30 de junio. Piso amueblado de 90 m2, ideal para compartir en el Eixample Esquerra, en finca rehabilitada con ascensor, rodeado de comercios y servicios, a poca distancia de la Escuela Industrial y del Hospital ClÃ­nic. El piso consta de salÃ³n-comedor con salida a balcÃ³n con vistas a la calle. Dispone de 3 habitaciones dobles, 1 baÃ±o completo con ducha, y una cocina totalmente equipada. Todas las estancias tienen suelo de parquet, excepto el salÃ³n que mantiene los suelos hidrÃ¡ulicos originales....",
+        "thumb": "http://images.enalquiler.com/viviendas/120/086/4367107-120086940_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/086/4367107-120086940_no.jpg"
+    }, {
+        "title": "FantÃ¡stico piso amueblado jto. Port vell",
+        "surface": 52,
+        "rooms": 1,
+        "price": 1,
+        "description": "FantÃ¡stico piso amueblado jto. Port vell. FantÃ¡stico piso frente al Port Vell, amueblado y equipado, 52m2, salÃ³n comedor, cocina independiente equipada, 1 habitaciÃ³n doble, 1 cuarto de baÃ±o, parquet, a. A, calefacciÃ³n , ascensor. Precio con todos los suministros incluidos ( agua, gas, electricidad ). Pl. De pÃ¡rking opcional ( 150â‚¬ mes ). MagnÃ­fica ubicaciÃ³n en la Barceloneta jto. Port Vell.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/102/4367391-120102188_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/102/4367391-120102188_no.jpg"
+    }, {
+        "title": "Inmueble totalmente amueblado y equipado",
+        "surface": 55,
+        "rooms": 2,
+        "price": 900,
+        "description": "Inmueble totalmente amueblado y equipado. Vivienda moderna de 55mÂ² en eixample, zona de la Sagrada Familia, muy luminoso. Consta de 2 dormitorios dobles, 1 cuarto de baÃ±o, amplio salÃ³n comedor y cocina totalmente equipada con nevera, lavadora, horno, lavavajillas y microondas. Vivienda totalmente amueblada. Dispone de suelos de parquet, aire acondicionado y puerta blindada. Finca con ascensor. Gastos de comunidad e ibi incluidos en el precio. Zona muy cÃ©ntrica, bien comunicada con lÃ­neas de autobÃºs y metro de Barcelona. ContÃ¡ctenos para...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367539-120103874_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367539-120103874_no.jpg"
+    }, {
+        "title": "Duplex totalmente reformado",
+        "surface": 110,
+        "rooms": 2,
+        "price": 1,
+        "description": "Duplex totalmente reformado. DÃºplex en calle pere iv totalmente reformado con 2 habitaciones dobles, todo exterior a calle muy luminoso, suelos de parquet, 2 baÃ±os completos, aire acondicionado, ascensor, todo amueblado y equipado, parking incluido en el precio. Fecha de entrega 1 de septiembre.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/102/4367420-120102524_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/102/4367420-120102524_no.jpg"
+    }, {
+        "title": "Loft en antigua fÃ¡brica Sant MartÃ­",
+        "surface": 111,
+        "rooms": 2,
+        "price": 1,
+        "description": "Loft en antigua fÃ¡brica Sant MartÃ­. Loft en ProvenÃ§als del Poblenou de 111mÂ², la vivienda es un dÃºplex y se distribuye de la siguiente manera: Primera planta, consta de hall, salÃ³n comedor, cocina indepemdiente, dormitorio doble y baÃ±o Planta alta: dormitorio abierto y baÃ±o completo. El loft incluye en el precio trastero y parking grande. El piso tiene calefaciÃ³n, aire acondicionado, parquet, varios armarios empotrados, videoporero. Ascensor. OrentaciÃ³n sudeste con sol durante la maÃ±ana. Era una antigua fÃ¡brica que ha sido rehabilitada...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/101/4367363-120101639_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/101/4367363-120101639_no.jpg"
+    }, {
+        "title": "FantÃ¡stico dÃºplex jto. Platja la mar bella",
+        "surface": 75,
+        "rooms": 1,
+        "price": 1,
+        "description": "FantÃ¡stico dÃºplex jto. Platja la mar bella. FantÃ¡stico dÃºplex sin amueblar, jto. Platja de la Mar Bella, con terraza de 25m2, 75m2, salÃ³n comedor , cocina equipada, 1 habitaciÃ³n doble, 1 cuarto de baÃ±o, calefacciÃ³n, pl. De pÃ¡rking incluida. MagnÃ­fica ubicaciÃ³n rodeado de zonas ajardinadas y junto Platja la Mar Bella.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367496-120103419_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367496-120103419_no.jpg"
+    }, {
+        "title": "Finca seminueva con parking incluido",
+        "surface": 120,
+        "rooms": 4,
+        "price": 1,
+        "description": "Finca seminueva con parking incluido. PÂº santa coloma. Piso de obra seminueva. 4 habitaciones (2Dobles) todas exteriores. Cocina office. 2 baÃ±os, uno suitte. Totalmente exterior, BalcÃ³n con acceso desde comedor. Plaza parking doble incluida en precio. Amueblado y con electrodomÃ©sticos.",
+        "thumb": "http://images.enalquiler.com/viviendas/120/103/4367472-120103174_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/103/4367472-120103174_no.jpg"
+    }, {
+        "title": "Ã¡tico con terraza en vila de gracia",
+        "surface": 40,
+        "rooms": 1,
+        "price": 800,
+        "description": "Ã¡tico con terraza en vila de gracia. Ãtico en Vila de Gracia con dos terrazas, una grande comunitaria y otra de unos 15 mÂ² privada. Tiene un dormitorio doble integrado en un solo ambiente y un pequeÃ±o despacho. Un cuarto de baÃ±o con plato de ducha. EstÃ¡ amueblado y con la cocina equipada con nevera, lavadora, microondas y horno. Dispone de aire acondicionado y calefacciÃ³n. Finca con ascensor y gastos de comunidad e ibi incluidos en el precio. Zona muy bien comunicada, en pleno corazÃ³n de Gracia, muy cerca del metro Fontana y de las...",
+        "thumb": "http://images.enalquiler.com/viviendas/120/102/4367406-120102388_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/102/4367406-120102388_no.jpg"
+    }, {
+        "title": "Alquiler piso aire acondicionado Sant martÃ­",
+        "surface": 160,
+        "rooms": 4,
+        "price": 1,
+        "description": "Alquiler piso aire acondicionado Sant martÃ­. Disponible el 1 de julio- Amplio y luminoso piso de 160m2 en finca rehabilitada con ascensor junto a Gran Via de les Corts Catalanes y a escasos minutos de la Plaza de GlÃ²ries. Amplio y luminoso salÃ³n-comedor con acceso a amplia terraza de 45m2. 4 dormitorios (3 dobles, 1 individual). 1 baÃ±o completo (con ducha). Cocina cerrada (equipada con electrodomÃ©sticos). Posibilidad con o sin muebles. Aire frio calor por Split y calefacciÃ³n por radiadores. Armarios en todas las estancias. Suelos de parquet....",
+        "thumb": "http://images.enalquiler.com/viviendas/120/086/4367110-120086982_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/086/4367110-120086982_no.jpg"
+    }, {
+        "title": "Amueblado para 4 estudiantes",
+        "surface": 135,
+        "rooms": 4,
+        "price": 1,
+        "description": "Amueblado para 4 estudiantes. Estudiantes para alquilar ya. Leer las condiciones de la propiedad: contrato directo de 5 aÃ±os, alquiler solo para 4 estudiantes, no animales ni bicis. 2 meses fianza mÃ¡s honorarios mÃ¡s Itp. Piso amueblado y equipado, pintado, 4 habitaciones para solo 4 estudiantes, calefacciÃ³n, 1 aseo y 1 b, cocina con galerÃ­a lavadero, ext calle con balconeras, asc, 2Âº real.",
+        "thumb": "http://images.enalquiler.com/viviendas/117/943/2259179-117943314_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/117/943/2259179-117943314_no.jpg"
+    }, {
+        "title": "Finca con presencia. Edificio NuÃ±ez y Navarro",
+        "surface": 85,
+        "rooms": 3,
+        "price": 1,
+        "description": "Finca con presencia. Edificio NuÃ±ez y Navarro. Omte dÂ´urgell jto mallorca. Vivienda amueblada, en planta tercera, con vistas a tranquilo patio de manzana y zona infantil de recreo, privativa del edificio. La vivienda se compone de tres dormitorios, uno de ellos se utiliza como habitaciÃ³n tipo vestidor, cocina totalmente equipada con armarios a dos niveles y electrodomÃ©sticos, baÃ±o y aseo, amplio salÃ³n-comedor. Vivienda en perfecto estado, en finca con presencia. Las superficies reflejadas son aproximadas",
+        "thumb": "http://images.enalquiler.com/viviendas/057/956/2632705-57956286_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/057/956/2632705-57956286_no.jpg"
+    }, {
+        "title": "Precioso piso en Pedralbes",
+        "surface": 150,
+        "rooms": 5,
+        "price": 2,
+        "description": "Precioso piso en Pedralbes. Amplio piso de 150m, sin muebles, en la Avenida Diagonal en finca con ascensor. Consta de 4 habitaciones (1 suite, 2 dobles y 2 indivduales), cocina con lavadero, sala individual para servicio, comedor con chimenea y balcÃ³n al exterior, 2 baÃ±os completos con baÃ±era y plaza de parking incluida en el alquiler. Agua, luz y gas dados de alta. Piscina y zona ajardinada comunitaria. Servicio de porterÃ­a. Listo para entrar a vivir.",
+        "thumb": "http://images.enalquiler.com/viviendas/071/184/2975995-71184185_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/071/184/2975995-71184185_no.jpg"
+    }, {
+        "title": "Fantastico apartamento de 1 habitacion con terraza",
+        "surface": 48,
+        "rooms": 1,
+        "price": 790,
+        "description": "Fantastico apartamento de 1 habitacion con terraza. MagnÃ­fico apartamento de una habitaciÃ³n, un baÃ±o, alto, soleado y tranquilo, gran terraza, excelentes acabados, calefacciÃ³n, carpinterÃ­a exterior de aluminio, carpinterÃ­a interior de roble, accesorios completos de baÃ±o, ojos de buey en todas las dependencias, armario empotrado, plaza de parking incluida en el precio con acceso directo mediante los ascensores de la propia finca, conserje las 24 horas excepto descanso semanal y festivos. Ref. 5893",
+        "thumb": "http://images.enalquiler.com/viviendas/106/674/3760556-106674442_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/106/674/3760556-106674442_no.jpg"
+    }, {
+        "title": "Piso para estudiantes, en Sagrada Familia.",
+        "surface": 95,
+        "rooms": 4,
+        "price": 1,
+        "description": "Piso para estudiantes, en Sagrada Familia.. Piso para estudiantes, disponible el 15 de Setiembre. Piso reformado y amoblado, totalmente equipado 4 habitaciones (1 doble, 3 individuales), salÃ³n con sofÃ¡ cama, comedor, cocina equipada (nevera, lavadora, horno, encimera y lavaplatos), dos baÃ±os completos, 2 balcones. ReciÃ©n estrenado. Bien comunicado con transporte pÃºblico metro y buses, al lado de la Sagrada Familia.",
+        "thumb": "http://images.enalquiler.com/viviendas/105/439/3907649-105439198_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/105/439/3907649-105439198_no.jpg"
+    }, {
+        "title": "Passeig de sant gervasi",
+        "surface": 52,
+        "rooms": 1,
+        "price": 750,
+        "description": "Passeig de sant gervasi. Apartamento en alquiler, reciente reformado, al Paseo de Sant Gervasi. 51,8M2. Entresuelo exterior, 1 habitaciÃ³n, sala comedor, cocina, baÃ±o, patio interior y servicio de porterÃ­a. Muy muy comunicado por Metro ( parada l3-vallcarca y Penitentes - fgc - Tibidabo, autobuses 22, v15,73,60,58 y Ronda de Arriba ( salida 6 )). Excelente situaciÃ³n muy aprop del Parque de Collserola, de la Carretera de las Aguas de Busot, del hospital QuirÃ³n, del Parque Sanitario Pere Virgilio y Hospital del Valle de He...",
+        "thumb": "http://images.enalquiler.com/viviendas/104/081/3863471-104081842_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/104/081/3863471-104081842_no.jpg"
+    }, {
+        "title": "Alquiler Pisos Barceloneta Barcelona Twin",
+        "surface": 45,
+        "rooms": 2,
+        "price": 700,
+        "description": "Alquiler Pisos Barceloneta Barcelona Twin. Disponible 1 agosto 2016, visitas 01 julio 2016 contactar por email. Alquiler pisos Barceloneta Barcelona, 45m2, 3Âº de altura. Exterior. Tiene 2 dormitorios, amplio salÃ³n comedor, cocina americana, baÃ±o, balcÃ³n y terraza comunitaria. EstÃ¡ totalmente amueblado y equipado, con lavadora, nevera, microonda, calefacciÃ³n e Internet. Con mucha luz natural. EstÃ¡ cerca el transporte pÃºblico, restaurantes, bares y supermercado. Condiciones: 700â‚¬ Mes + 1400â‚¬ Deposito + 700â‚¬ + iva ComisiÃ³n Skyflats",
+        "thumb": "http://images.enalquiler.com/viviendas/106/197/3930713-106197409_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/106/197/3930713-106197409_no.jpg"
+    }, {
+        "title": "Alquiler piso ascensor Les corts",
+        "surface": 70,
+        "rooms": 3,
+        "price": 850,
+        "description": "Alquiler piso ascensor Les corts. Les corts: Ref 1311. Piso 70m2, Amueblado, Soleado, 3 Habitaciones Dobles, Gran SalÃ³n Comedor, Cocina Office Equipada, 1 BaÃ±o con BaÃ±era, Lavadero con Lavadora y tendedero, Suelos de Parquet, Gas Natural, Finca con Ascensor, Zona Buena, y bien comunicada l3 Les Corts. Cerca zona Universitaria, fcb, Corte InglÃ©s Diagonal y EstaciÃ³n de Sants. Les corts: Piso 90m2, especial estudiantes, Amueblado, 3 Hab. Dobles, SalÃ³n Comedor, Cocina Office, 1 BaÃ±o, Lavadero, s. Parquet, Gas n. , Ascensor, Zona bien...",
+        "thumb": "http://images.enalquiler.com/viviendas/111/671/4090981-111671072_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/111/671/4090981-111671072_no.jpg"
+    }, {
+        "title": "Aticos con vistas al puerto",
+        "surface": 45,
+        "rooms": 1,
+        "price": 1,
+        "description": "Aticos con vistas al puerto. Moderno Ã¡tico con terraza y vistas que van desde el edificio de Correos hasta el Port Vell. La calidez de la sala de estar que le proporciona sus paredes de madera, contrasta con la luminosidad del techo acristalado. Este apartamento, dedicado a Joan Brossa. El techo acristalado permite disfrutar de luz natural directa o tamizada durante el dÃ­a y por la noche, sentir las estrellas sobre la cabeza. La terraza, ofrece comodidad y privacidad a partes iguales, para disfrutar de la climatologÃ­a mediterrÃ¡nea....",
+        "thumb": "http://images.enalquiler.com/viviendas/112/670/4128869-112670486_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/112/670/4128869-112670486_no.jpg"
+    }, {
+        "title": "Piso en alquiler en Vila de GrÃ cia",
+        "surface": 60,
+        "rooms": 2,
+        "price": 800,
+        "description": "Piso en alquiler en Vila de GrÃ cia. Gracia: milÃ  i fontanals trav. De gracia, Excelente Ã¡tico de alquiler en la mejor zona de Gracia de 55m2, compuesto de dos dormitorios dobles, salÃ³n-comedor y cocina equipada 29m2, baÃ±o completo,lavadero,terraza comunitaria de 40m2. Piso reformado muy soleado, cerca de transportes pÃºblicos, suelo de parquet y con calefacciÃ³n. AprovÃ©chalo! Ven a verlo!",
+        "thumb": "http://images.enalquiler.com/viviendas/120/080/4142584-120080574_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/120/080/4142584-120080574_no.jpg"
+    }, {
+        "title": "Alquiler piso Nou barris",
+        "surface": 65,
+        "rooms": 3,
+        "price": 700,
+        "description": "Alquiler piso Nou barris. Piso reformado, nuevo a estrenar, 3 habitaciones, comedor, cocina equipada reformada, baÃ±o, puertas interiores de madera, carpinterÃ­a exterior de aluminio, suelo de parquet, 2Âº real sin ascensor, exterior.",
+        "thumb": "http://images.enalquiler.com/viviendas/115/409/4176469-115409742_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/115/409/4176469-115409742_no.jpg"
+    }, {
+        "title": "Frente mercado sants",
+        "surface": 47,
+        "rooms": 3,
+        "price": 670,
+        "description": "Frente mercado sants. Piso de 3 habitaciones, dos dobles y una individual. Recien reformado.",
+        "thumb": "http://images.enalquiler.com/viviendas/119/902/4226215-119902284_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/902/4226215-119902284_no.jpg"
+    }, {
+        "title": "Alquiler de Piso en Barcelona, Sarria",
+        "surface": 110,
+        "rooms": 2,
+        "price": 1,
+        "description": "Alquiler de Piso en Barcelona, Sarria. Piso 2 dormitorios, 2 baÃ±os, 1 garajes, Seminuevo, en Barcelona, Barcelona. Precioso piso de 100 m2, 2 habitaciones dobles con armarios empotrados y vestidor, 2 baÃ±os completos, cocina office equipada con ElectrodomÃ©sticos, Horno, Lavadora, Microondas, ect. Piso de obra nueva, situado en zona alta. SalÃ³n comedor de 45m2 con salida a terraza y vistas a Rda. General Mitre. Acabados de 1Âª calidad. Parquet, calefacciÃ³n y aire acondicionado. Servicio de recogida de basuras. Plaza de parking amplia coche...",
+        "thumb": "http://images.enalquiler.com/viviendas/117/977/4279874-117977179_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/117/977/4279874-117977179_no.jpg"
+    }, {
+        "title": "Piso luminoso y con vistas a pocos metr",
+        "surface": 91,
+        "rooms": 3,
+        "price": 790,
+        "description": "Piso luminoso y con vistas a pocos metr. Piso alquiler Barcelona - la Guineueta. Piso en buen estado situado en la Guineueta a pocos metros del Parc Central de Nou Barris de 78 m2. El piso tiene un amplio salÃ³n comedor exterior con balcÃ³n a calle de 20m2. Tiene tres habitaciones, dos dobles y una mediana. Tiene un baÃ±o completo con ducha totalmente reformado, cocina con salida a lavadero. El inmueble es alto y luminoso, dispone de vistas a zonas ajardinadas. Zona con servicio de autobuses y metro.",
+        "thumb": "http://images.enalquiler.com/viviendas/118/032/4288221-118032931_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/118/032/4288221-118032931_no.jpg"
+    }, {
+        "title": "Alto alegre, soleado, de 3 habitaciones dos baÃ±os y 1 aseo",
+        "surface": 134,
+        "rooms": 3,
+        "price": 2,
+        "description": "Alto alegre, soleado, de 3 habitaciones dos baÃ±os y 1 aseo. Alto alegre y Soledao con vistas, compuesto de 3 habitqciones salon comdor cocina y in aseo de cortesia, Aire Acondicionado por conductos. Plaza de aparcamiento en los bajos del edificio. Con muebles y con lamposibilidad de sacarlos tambien",
+        "thumb": "http://images.enalquiler.com/viviendas/118/989/4326707-118989791_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/118/989/4326707-118989791_no.jpg"
+    }, {
+        "title": "Ã¡tico totalemente reformado 5 habitaciones.",
+        "surface": 90,
+        "rooms": 5,
+        "price": 900,
+        "description": "Ã¡tico totalemente reformado 5 habitaciones.. Ã¡tico totalmente reformado, 5 habitaciones, baÃ±o y aseo. Excelente zona en el corazÃ³n de la ciudad.",
+        "thumb": "http://images.enalquiler.com/viviendas/118/782/4319122-118782961_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/118/782/4319122-118782961_no.jpg"
+    }, {
+        "title": "Atico duplex, Amueblado",
+        "surface": 130,
+        "rooms": 3,
+        "price": 1,
+        "description": "Atico duplex, Amueblado. Piso Ã¡tico duplex de 3 habitaciones, Amueblado,vistas bonitas, suelos de parquets, planta baja : SalÃ³n-Comedor con la salida a gran terraza, Suite, Cocina indepediente, Recibidor, Lavadero, Planta primera : 2 habitaciones, un baÃ±o con baÃ±era, Trastero, Plaza de garaje incluido, Servicios de consejerÃ­a",
+        "thumb": "http://images.enalquiler.com/viviendas/119/381/4342867-119381613_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/381/4342867-119381613_no.jpg"
+    }, {
+        "title": "Piso reformado a estrenar",
+        "surface": 152,
+        "rooms": 4,
+        "price": 1,
+        "description": "Piso reformado a estrenar. Estupendo piso totalmente reformado de calidad a estrenar, tiene dos orientaciones, Gerona y Tarragona, estÃ¡ situado en la planta 1Âª de un edificio con planta principal por tanto es como un 2Âº real, con ascensor y servicio de porterÃ­a, consta de 3 habitaciones dobles y una pequeÃ±ita, que puede hacer tanto de despacho como de vestidor, gran salÃ³n en dos ambientes con vistas a un gran patio de manzana y la habitaciÃ³n principal y otra con vistas a la calle, gran cocina office y dos baÃ±os completos uno...",
+        "thumb": "http://images.enalquiler.com/viviendas/118/885/4323615-118885025_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/118/885/4323615-118885025_no.jpg"
+    }, {
+        "title": "Excelente piso en zona residencial Les Corts",
+        "surface": 130,
+        "rooms": 4,
+        "price": 1,
+        "description": "Excelente piso en zona residencial Les Corts. Piso 7Âº, 4 habitaciones, todo exterior y soleado, con opciÃ³n a plazas de parking en el propio edificio, acceso mediante ascensor. Zona de usos comunitarios sobre parcela de 3. 500 m2. Dotado de vestÃ­bulo, gran sala de usos varios (con mesa de ping- pong), cuarto bicicletas y wc. Dos ascensores (uno de gran capacidad). En el exterior, con orientaciÃ³n Sud -Este: 2 piscinas , jardÃ­n-solÃ¡rium con cÃ©sped y arbolado, Zona juegos infantiles y zona con cancha de Basquetbol. Edificio, rodeado por zona peatonal....",
+        "thumb": "http://images.enalquiler.com/viviendas/118/961/4325871-118961607_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/118/961/4325871-118961607_no.jpg"
+    }, {
+        "title": "Alquiler piso ascensor Les corts",
+        "surface": 120,
+        "rooms": 4,
+        "price": 1,
+        "description": "Alquiler piso ascensor Les corts. Piso en ArÃ­stides Maillol, Zona de Les Corts. 120 m2. SalÃ³n Comedor de 28 m2, con salida a BalcÃ³n Terraza de 10 m2. 4 Habitaciones (1 de ellas suite con baÃ±o, otra doble y dos individuales). Cocina reformada con electrodomÃ©sticos. Lavadero GalerÃ­a. 2 BaÃ±os reformados (el de la suite con baÃ±era y el otro con ducha). Totalmente Amueblado. Piso completamente exterior a zonas ajardinadas. Parquet. CarpinterÃ­a de aluminio. CalefacciÃ³n. Aire Acondicionado. Finca con Conserje. JardÃ­n privado. Finca con...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/681/4353465-119681523_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/681/4353465-119681523_no.jpg"
+    }, {
+        "title": "Precioso piso equipado",
+        "surface": 70,
+        "rooms": 2,
+        "price": 895,
+        "description": "Precioso piso equipado. Precioso piso de lo mas cÃ©ntrico de Barcelona. A dos minutos de la catedral, a 5 de las Ramblas y metro. En una calle donde encontrara tiendas, restaurante. El piso de distribuciÃ³n rectangular esta listo para entrar, consta de 2 habitaciones la principal equipada y con salida a la calle y la individual con dos camitas y su armario junto la de matrimonio. (estas estancias quedan separadas del salÃ³n). BaÃ±o amplio y exterior. Cocina equipada con lavavajillas, nevera y lavadora. Comedor y la sala de...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/296/4337276-119296277_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/296/4337276-119296277_no.jpg"
+    }, {
+        "title": "Balmes 96",
+        "surface": 160,
+        "rooms": 3,
+        "price": 2,
+        "description": "Balmes 96. Impresionante piso totalmente exterior y reformado junto a Rambla CataluÃ±a. Tiene 160mÂ² distribuidos en tres habitaciones dobles tipo suite con armarios empotrados y una con vestidor,tres baÃ±os completos con plato de ducha, lavadero con lavadora y secadora, cocina equipada con todos los electrodomÃ©sticos y amplio salÃ³n comedor muy luminoso. AdemÃ¡s dispone de suelos de parquet y aire acondicionado frÃ­o calor. Finca en perfecto estado con fachada rehabilitada, ascensor y conserje. Perfectamente ubicado...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/884/4360335-119884933_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/884/4360335-119884933_no.jpg"
+    }, {
+        "title": "Poblenou estudio con 2 baÃ±os amueblado parking",
+        "surface": 115,
+        "rooms": null,
+        "price": 1,
+        "description": "Poblenou estudio con 2 baÃ±os amueblado parking. Poblenou estudio con 2 baÃ±os amueblado y equipado de diseÃ±o, reformado, aire y calefacciÃ³n, parking incluido, parquet, cocina equipada, superf. 115 mÂ², 2 baÃ±os, cocina (Equipada), comedor, trastero, suelos Parquet, jardÃ­n, garaje (Incluida), ascensor, armarios, calefacciÃ³n, muebles, puerta blindada, portero automÃ¡tico, gastos comunidad Incluidos, agua, luz, gas dados de alta, carpinterÃ­a exterior Aluminio, carpinterÃ­a interior Haya, aire acondicionado, exterior, orientaciÃ³n sur, soleado, Estado certificaciÃ³n:...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/947/4362945-119947113_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/947/4362945-119947113_no.jpg"
+    }, {
+        "title": "Piso amplio junto a l'illa.",
+        "surface": 96,
+        "rooms": 3,
+        "price": 980,
+        "description": "Piso amplio junto a l'illa.. Primera planta exterior de 96 m2 de superficie. Se compone de salÃ³n amplio de 26 m2, 3 habitaciones (2 dobles), cocina y baÃ±o reformados. Dispone de suelo de gres y ventanas de aluminio. Situado en muy buena zona. Ya estÃ¡ disponible.",
+        "thumb": "http://images.enalquiler.com/viviendas/119/385/4343152-119385061_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/385/4343152-119385061_no.jpg"
+    }, {
+        "title": "Precioso estudio Loft en el Corazon del Borne, Dispo. 1. 07",
+        "surface": 45,
+        "rooms": null,
+        "price": 799,
+        "description": "Precioso estudio Loft en el Corazon del Borne, Dispo. 1. 07. Disponible en el 1 de Julio. Precioso Studio en el CorazÃ³n del Borne~ 45m2 0 Habitaciones (Todo un Ambiente) Loft con Mucho Espacio de Armarios 1 BaÃ±o Completo con Ducha Cocina Americana con Horno, Nevera, Congelador, Lavadora, Microondas, VitrocerÃ¡mica ElÃ©ctrica, Menaje, Etc. Luces Led Ahorra Consumo Pack TelevisiÃ³n e Internet incluido en la Renta CalefacciÃ³n por Radiadores ElÃ©ctricas Posibilidad de Poner Aire Acondicionado. Increible Ubicacion en Borne (2 Minutos Andando a Metro l4 â€œJaume 1erâ€...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/336/3808857-119336144_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/336/3808857-119336144_no.jpg"
+    }, {
+        "title": "Precioso apartamento situado en la zona de Diagonal Mar.",
+        "surface": 60,
+        "rooms": 1,
+        "price": 1,
+        "description": "Precioso apartamento situado en la zona de Diagonal Mar.. Precioso apartamento situado en la zona de Diagonal Mar. Con las vistas maravillosas a Barcelona y mar. 1 dormitorio. 1 BaÃ±o completo con baÃ±era. Cocina tipo americana totalmente equipada. Parking opcional. Totalmente amueblado y equipado. Bonito salÃ³n comedor con sofÃ¡ chaise-longue para 3 personas y cÃ³moda butaca individual, el sofÃ¡ se convierte en una confortable cama para 2 personas. Televisor Smarttv de 42 pulgadas con internet incorporado. El edificio tiene servicio de portero y video vigilancia....",
+        "thumb": "http://images.enalquiler.com/viviendas/113/032/4138558-113032312_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/113/032/4138558-113032312_no.jpg"
+    }, {
+        "title": "Alquiler piso ascensor Eixample",
+        "surface": 70,
+        "rooms": 3,
+        "price": 900,
+        "description": "Alquiler piso ascensor Eixample. Magnifico piso reciÃ©n actualizado en calle RossellÃ³ 21, compuesto de 3 dormitorios, 1 baÃ±o, cocina office y lavadero. Tiene un balcÃ³n que da a patio interior manzana. Muy luminoso y tranquilo. Finca con ascensor y entrada con buena presencia. A 50m metro EntenÃ§a y a 300m de EstaciÃ³n Sants. Las fotos corresponden al estado actual con la reforma en marcha.",
+        "thumb": "http://images.enalquiler.com/viviendas/119/452/4346047-119452202_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/452/4346047-119452202_no.jpg"
+    }, {
+        "title": "Piso tranquilo con balcon",
+        "surface": 76,
+        "rooms": 3,
+        "price": 825,
+        "description": "Piso tranquilo con balcon. Piso tranquilo con amplio balcÃ³n amueblado junto rambla brasil piso de 76mÂ², amueblado consta de un salÃ³n comedor exterior de 17mÂ² con salida a balÃ³n grande, amplia cocina reformada con acceso a lavadero, 1 baÃ±o y 1 aseo reformados. 3 habitaciones, 1 habitaciÃ³n doble exterior a balcÃ³n y 2 habitaciones individuales. Suministros dados de alta ( agua, luz y gas) finca del aÃ±o 1970, muy tranquila. Ascensor. Excelente zona, muy bien comunicada en cuanto a transporte pÃºblico. Cerca de todo tipo de comercios...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/520/4347215-119520740_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/520/4347215-119520740_no.jpg"
+    }, {
+        "title": "Alquiler Ã¡tico ascensor Sant martÃ­",
+        "surface": 87,
+        "rooms": 3,
+        "price": 1,
+        "description": "Alquiler Ã¡tico ascensor Sant martÃ­. MagnÃ­fico Ã¡tico amueblado con terraza y parking incluido en precio en obra seminueva en el Clot. Consta de 3 dormitorios, amplio salÃ³n comedor con salida a terraza privada, cocina independiente y 2 baÃ±os. Se alquila sin muebles. Plaza de parking incluido en el precio.",
+        "thumb": "http://images.enalquiler.com/viviendas/119/572/4349402-119572119_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/572/4349402-119572119_no.jpg"
+    }, {
+        "title": "Amplio y luminoso piso en el centro.",
+        "surface": 78,
+        "rooms": 2,
+        "price": 1,
+        "description": "Amplio y luminoso piso en el centro.. Amplio y luminoso piso de 80 metros cuadrados. Esta fantÃ¡stica vivienda dispone de 2 habitaciones dobles con salida a balcÃ³n, lavadero, cocina abierta totalmente equipada, amplio salÃ³n comedor con dos salidas al mismo balcÃ³n de las habitaciones, 1 baÃ±o completo de ducha y baÃ±era separadas. El piso de diseÃ±o, dispone de suelo de origen. CalefacciÃ³n elÃ©ctrica, aire acondicionador y vitrocerÃ¡mica. Piso ideal para compartir 2 estudiantes o trabajadores. Disponible a partir del 1 de septiembre. Se puede...",
+        "thumb": "http://images.enalquiler.com/viviendas/119/599/4350436-119599543_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/599/4350436-119599543_no.jpg"
+    }, {
+        "title": "90 m2. 3 habitaciones 2 baÃ±os",
+        "surface": 90,
+        "rooms": 3,
+        "price": 800,
+        "description": "90 m2. 3 habitaciones 2 baÃ±os. 8Âª planta con ascensor, en muy buen estado para entrar a vivir. Se alquila sin muebles consta de SalÃ³n con salida a un balconcito, cocina equipada, lavadero, y tres habitaciones 2 dobles muy amplias y una individual. Aire acondicionado, calefacciÃ³n. A 5 min. Del metro Navas l1. 2 meses de fianza + 1 mes honorarios agencia.",
+        "thumb": "http://images.enalquiler.com/viviendas/119/822/4357233-119822176_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/822/4357233-119822176_no.jpg"
+    }, {
+        "title": "Santa Carolina",
+        "surface": 70,
+        "rooms": 3,
+        "price": 700,
+        "description": "Santa Carolina. Piso de 70m, con tres habitaciones (dos de ellas dobles), salÃ³n comedor, cocina y baÃ±o. Sin muebles, luminoso, segundo piso sin ascensor, muy bien comunicado por metro y autobuses, junto Hospital de Sant Pau y Sagrada Familia.",
+        "thumb": "http://images.enalquiler.com/viviendas/119/824/4357433-119824449_se.jpg",
+        "image": "http://images.enalquiler.com/viviendas/119/824/4357433-119824449_no.jpg"
+    }]
+}
